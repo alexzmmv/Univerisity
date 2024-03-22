@@ -1,0 +1,3 @@
+"D:\Program Files\CLion\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\a2_3_alexzmmv.dir/objects.a
+"D:\Program Files\CLion\CLion 2023.3.4\bin\mingw\bin\ar.exe" qc CMakeFiles\a2_3_alexzmmv.dir/objects.a @CMakeFiles\a2_3_alexzmmv.dir\objects1.rsp
+"D:\Program Files\CLion\CLion 2023.3.4\bin\mingw\bin\gcc.exe" -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\a2_3_alexzmmv.dir/objects.a -Wl,--no-whole-archive -o a2_3_alexzmmv.exe -Wl,--out-implib,liba2_3_alexzmmv.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\a2_3_alexzmmv.dir\linkLibs.rsp

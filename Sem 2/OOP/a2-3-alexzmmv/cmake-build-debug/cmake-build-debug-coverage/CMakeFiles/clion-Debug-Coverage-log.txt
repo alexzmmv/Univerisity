@@ -1,0 +1,2 @@
+Cannot generate 'Debug-Coverage' into D:\!Facultate\Sem2\OOP\a2-3-alexzmmv\cmake-build-debug\cmake-build-debug-coverage
+CMakeCache.txt is found in the project dir, only in-source generation will be performed.
