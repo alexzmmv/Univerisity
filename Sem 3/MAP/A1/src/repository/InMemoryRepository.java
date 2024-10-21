@@ -23,6 +23,8 @@ public class InMemoryRepository implements RepositoryInterface {
     public void addAtendee(Atendee atendee) throws Exception {
         if(size==capacity)
             throw new Exception("No more space");
+        if(isAtendee(atendee.getName()))
+            throw new Exception("Atendee already exists");
         atendees[size]=atendee;
         size++;
     }
@@ -44,6 +46,15 @@ public class InMemoryRepository implements RepositoryInterface {
     @Override
     public Atendee[] getAtendees() {
         return atendees;
+    }
+
+    @Override
+    public Boolean isAtendee(String name) {
+        for(int i=0;i<size;i++){
+            if(atendees[i].getName().equals(name))
+                return true;
+        }
+        return false;
     }
 
 }
