@@ -9,9 +9,21 @@ Welcome to my University repository, where I document my academic adventures and
 This repository is organized by semesters, reflecting the coursework and projects I have tackled during my studies. Each folder contains subdirectories for specific subjects, assignments, and projects.
 
 ### Sem 1
-  - Fundamentals of programing 💻
-  - Mathematical Analysis 📊
-  - Linear Algebra  📐
-  - Computer systems architecture 🏗️
-  - Computational Logic 🔍
-### Sen 2
+- [Fundamentals of Programming - Python 💻 🐍](./Sem1/Fundamentals_of_Programming)
+- [Mathematical Analysis 📊](./Sem1/Mathematical_Analysis)
+- [Linear Algebra 📐](./Sem1/Linear_Algebra)
+- [Computer Systems Architecture 🏗️](./Sem1/Computer_Systems_Architecture)
+- [Computational Logic 🤖](./Sem1/Computational_Logic)
+
+### Sem 2
+- [Object-Oriented Programming - C++🧩](./Sem2/Object_Oriented_Programming)
+- [Data Structures and Algorithms 📈](./Sem2/Data_Structures_and_Algorithms)
+- [Analytical Geometry 📐](./Sem2/Analytical_Geometry)
+- [Operating Systems 🖥️](./Sem2/Operating_Systems)
+
+### Sem 3
+- [Advanced Programming Methods - Java 🧑‍💻](./Sem3/Advanced_Programming_Methods)
+- [Computer Networks 🌐](./Sem3/Computer_Networks)
+- [Logical and Functional Programming 🧠](./Sem3/Logical_and_Functional_Programming)
+- [Probability and Statistics 📈](./Sem3/Probability_and_Statistics)
+- [Databases 🗄️](./Sem3/Databases)
