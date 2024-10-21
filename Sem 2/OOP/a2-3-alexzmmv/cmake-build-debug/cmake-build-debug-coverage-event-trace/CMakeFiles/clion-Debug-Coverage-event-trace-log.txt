@@ -1,2 +1,0 @@
-Cannot generate 'Debug-Coverage-event-trace' into D:\!Facultate\Sem2\OOP\a2-3-alexzmmv\cmake-build-debug\cmake-build-debug-coverage-event-trace
-CMakeCache.txt is found in the project dir, only in-source generation will be performed.

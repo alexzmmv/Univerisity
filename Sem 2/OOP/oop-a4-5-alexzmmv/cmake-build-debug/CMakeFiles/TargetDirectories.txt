@@ -1,3 +1,0 @@
-D:/!Facultate/Sem2/OOP/oop-a4-5-alexzmmv/cmake-build-debug/CMakeFiles/oop_a4_5_alexzmmv.dir
-D:/!Facultate/Sem2/OOP/oop-a4-5-alexzmmv/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/!Facultate/Sem2/OOP/oop-a4-5-alexzmmv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
