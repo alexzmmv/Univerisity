@@ -1,6 +1,15 @@
+import controller.Controller;
+import repository.InMemoryRepository;
+import repository.RepositoryInterface;
+import view.CUI;
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Scanner scanner = new Scanner(System.in);
+        RepositoryInterface repository = new InMemoryRepository();
+        Controller controller = new Controller(repository);
+        CUI cui = new CUI(scanner, controller);
+        cui.run();
     }
 }
 
