@@ -23,7 +23,7 @@ Before diving into the details, here are some projects I am particularly proud o
   <tr>
     <td>2.</td>
     <td>
-        <a href="https://github.com/alexzmmv/Univerisity/tree/main/Sem%202/OOP/a10-alexzmmv">Graphical UI</a>
+        <a href="https://github.com/alexzmmv/Univerisity/tree/main/Sem%202/OOP/a10-alexzmmv">Activities manager</a>
     </td>
     <td>
         A Qt-based graphical user interface designed for managing activities, featuring both admin and user windows. 
