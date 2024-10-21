@@ -10,7 +10,7 @@ This repository is organized by semesters, reflecting the coursework and project
 
 ### Sem 1
 - [Fundamentals of Programming - Python 💻 🐍](https://github.com/alexzmmv/Univerisity/tree/main/Sem%201/Fundamentals%20of%20programing)
-- [Mathematical Analysis 📊](.\Sem1\Mathematical%20Analysis)
+- [Mathematical Analysis 📊](./Sem1/Mathematical%20Analysis)
 - [Linear Algebra 📐](./Sem1/Linear_Algebra)
 - [Computer Systems Architecture 🏗️](./Sem1/Computer_Systems_Architecture)
 - [Computational Logic 🤖](./Sem1/Computational_Logic)
