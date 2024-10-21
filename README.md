@@ -9,7 +9,7 @@ Welcome to my University repository, where I document my academic adventures and
 This repository is organized by semesters, reflecting the coursework and projects I have tackled during my studies. Each folder contains subdirectories for specific subjects, assignments, and projects.
 
 ### Sem 1
-- [Fundamentals of Programming - Python 💻 🐍](./Sem%201/Fundamentals_of_Programming)
+- [Fundamentals of Programming - Python 💻 🐍](https://github.com/alexzmmv/Univerisity/tree/main/Sem%201/Fundamentals%20of%20programing)
 - [Mathematical Analysis 📊](./Sem1/Mathematical_Analysis)
 - [Linear Algebra 📐](./Sem1/Linear_Algebra)
 - [Computer Systems Architecture 🏗️](./Sem1/Computer_Systems_Architecture)
